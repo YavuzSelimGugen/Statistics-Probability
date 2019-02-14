@@ -8,8 +8,8 @@ setini excel üzerinde işleme sokmak ve bazı değerlerin null olması en zor k
 için excel programlama yardımıyla boş olan hücreleri sildim.
 
 ## Ekran Çıktıları :
-[ss1](/SS1.PNG) <br>
-[ss2](/SS2.PNG) <br>
+![ss1](/SS1.PNG) <br>
+![ss2](/SS2.PNG) <br>
 
 ## Başarılamamış İşlemler:
 
